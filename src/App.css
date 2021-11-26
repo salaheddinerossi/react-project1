@@ -1,0 +1,32 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-font-s{
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 23px;
+
+}
+.text-font-b{
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 60px;
+
+}
+
+.navbarcolor{
+  background-color: #E2EEF6;
+}
+
+.titlecolor{
+  color: #4EA4DD;
+}
+.bg-co{
+  background-color: #4EA4DD;
+}
+.poppins{
+  font-family: 'Poppins', sans-serif !important;
+}
+.input{
+  width: 100%;
+}
